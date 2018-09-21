@@ -48,7 +48,7 @@ def main():
   if not values:
     print('No data found.')
   else:
-    print('Name, Major:')
+    print('Results:')
     for row in values:
       # Print columns A and E, which correspond to indices 0 and 4.
       emal = row[0]
