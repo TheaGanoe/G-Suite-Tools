@@ -1,0 +1,10 @@
+
+1. follow this page  https://codelabs.developers.google.com/codelabs/gsuite-apis-intro/#3
+
+  a.  have python
+  b.  install the Google APIs client and OAuth2 libraries for Python 
+  c.  enable apis for Drive and Sheets in Google Developer Console
+  d.  set up credentials
+  e.  find fileid of spreadsheet to be opened
+  f.  run program
+
